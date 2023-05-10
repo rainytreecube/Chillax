@@ -109,38 +109,40 @@
 /*discord transparency*//*roots*/ /*theme dark*/
   .theme-dark {
   --background-message-hover: rgba(255, 255, 255, 0.055);
-  --header-primary: #fff;
-  --header-secondary: #b9bbbe;
-  --text-normal: #dcddde;
-  --text-muted: #9d9d9d;
-  --channels-default: #8e9297;
-  --interactive-normal: #b9bbbe;
-  --interactive-hover: #dcddde;
-  --interactive-active: #fff;
-  --interactive-muted: #4f545c;
+  --header-primary: #cdd6f4;
+  --header-secondary: #a6adc8;
+  --text-normal: #cdd6f4;
+  --text-muted: #a6adc8;
+  --text-link: #89b4fa;
+  --text-link-low-saturation: #74c7ec;
+  --text-positive: #a6e3a1;
+  --text-warning: #f9e2af;
+  --text-danger: #f38ba8;
+  --text-brand: #89b4fa;
   --background-primary: transparent;
   --background-secondary: transparent;
   --background-tertiary: transparent;
-  --background-accent: rgb(36, 36, 36);
+  --background-accent: #89b4fa;
   --activity-card-background: transparent;
   --deprecated-panel-background: transparent;
 }
 /*discord transparency*//*roots*/ /*theme light*/
   .theme-light {
   --background-message-hover: rgba(255, 255, 255, 0.055);
-  --header-primary: rgb(0, 0, 0);
-  --header-secondary: #3f3f3f;
-  --text-normal: #303030;
-  --text-muted: #333333;
-  --channels-default: #585b5e;
-  --interactive-normal: #3a3a3a;
-  --interactive-hover: #333333;
-  --interactive-active: rgb(0, 0, 0);
-  --interactive-muted: #4f545c;
+  --header-primary: #cdd6f4;
+  --header-secondary: #a6adc8;
+  --text-normal: #cdd6f4;
+  --text-muted: #a6adc8;
+  --text-link: #89b4fa;
+  --text-link-low-saturation: #74c7ec;
+  --text-positive: #a6e3a1;
+  --text-warning: #f9e2af;
+  --text-danger: #f38ba8;
+  --text-brand: #89b4fa;
   --background-primary: transparent;
   --background-secondary: transparent;
   --background-tertiary: transparent;
-  --background-accent: rgb(27, 27, 27);
+  --background-accent: #89b4fa;
   --activity-card-background: transparent;
   --deprecated-panel-background: transparent;
 }
